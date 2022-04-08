@@ -1,0 +1,26 @@
+2022-04-08 21:26:35.744488 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-08 21:26:36.464798 (ThreadPoolExecutor-1_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2022-04-08 21:26:37.154300 (Thread-2): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55673), raddr=('142.251.32.74', 443)>
+2022-04-08 21:26:37.159338 (Thread-2): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55674), raddr=('172.217.1.10', 443)>
+2022-04-08 21:26:37.159504 (Thread-2): unclosed <ssl.SSLSocket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55675), raddr=('142.251.32.74', 443)>
+2022-04-08 21:26:37.159643 (Thread-2): unclosed <ssl.SSLSocket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55676), raddr=('172.217.1.10', 443)>
+2022-04-08 21:33:07.133147 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-08 21:33:07.864078 (ThreadPoolExecutor-1_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2022-04-08 21:34:33.765552 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-08 21:34:34.521260 (ThreadPoolExecutor-1_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2022-04-08 21:34:39.743390 (MainThread): unclosed <ssl.SSLSocket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55713), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.744079 (MainThread): unclosed <ssl.SSLSocket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55714), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.744615 (MainThread): unclosed <ssl.SSLSocket fd=22, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55717), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.744865 (MainThread): unclosed <ssl.SSLSocket fd=20, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55715), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.745098 (MainThread): unclosed <ssl.SSLSocket fd=21, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55716), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.745317 (MainThread): unclosed <ssl.SSLSocket fd=23, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55718), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.745538 (MainThread): unclosed <ssl.SSLSocket fd=24, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55719), raddr=('142.251.41.42', 443)>
+2022-04-08 21:34:39.745720 (MainThread): unclosed <ssl.SSLSocket fd=25, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55720), raddr=('142.251.41.42', 443)>
+2022-04-08 21:37:05.947152 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-08 21:37:05.953077 (ThreadPoolExecutor-0_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2022-04-08 21:37:07.197427 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55726), raddr=('142.251.41.42', 443)>
+2022-04-08 21:37:07.198045 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55727), raddr=('142.251.41.42', 443)>
+2022-04-08 21:41:55.725774 (MainThread): write_gpickle is deprecated and will be removed in 3.0.Use ``pickle.dump(G, path, protocol)``
+2022-04-08 21:41:55.731371 (ThreadPoolExecutor-0_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2022-04-08 21:41:57.160872 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55743), raddr=('172.217.1.10', 443)>
+2022-04-08 21:41:57.161352 (ThreadPoolExecutor-1_0): unclosed <ssl.SSLSocket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.116.144', 55744), raddr=('172.217.1.10', 443)>
