@@ -1,18 +1,25 @@
-with customers as (
 
-    select * from {{ ref('stg_customers') }}
+
+  create or replace table `dbt-fundamentals-346323`.`jaffle_shop`.`dim_customers`
+  
+  
+  OPTIONS()
+  as (
+    with customers as (
+
+    select * from `dbt-fundamentals-346323`.`jaffle_shop`.`stg_customers`
 
 ),
 
 orders as (
 
-    select * from {{ ref('stg_orders') }}
+    select * from `dbt-fundamentals-346323`.`jaffle_shop`.`stg_orders`
 
 ),
 
 payments as (
 
-    select * from {{ ref('stg_payments') }}
+    select * from `dbt-fundamentals-346323`.`jaffle_shop`.`stg_payments`
 
 ),
 
@@ -67,3 +74,5 @@ final as (
 )
 
 select * from final
+  );
+  
